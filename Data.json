@@ -1,0 +1,4138 @@
+[
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABX",
+        "shares": 30,
+        "price": 134.26,
+        "timestamp": "2014-06-14 14:06:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABX",
+        "shares": 30,
+        "price": 134.26,
+        "timestamp": "2014-06-14 14:06:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AAC",
+        "shares": 12,
+        "price": 133.96,
+        "timestamp": "2014-06-19 15:15:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABC",
+        "shares": 25,
+        "price": 135.57,
+        "timestamp": "2014-06-25 14:03:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AEP",
+        "shares": 27,
+        "price": 155.09,
+        "timestamp": "2014-07-24 13:32:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AEB",
+        "shares": 21,
+        "price": 184.04,
+        "timestamp": "2014-07-26 13:46:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABR",
+        "shares": 15,
+        "price": 142.09,
+        "timestamp": "2014-07-30 09:23:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABRN",
+        "shares": 11,
+        "price": 161.7,
+        "timestamp": "2014-08-02 09:46:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AED",
+        "shares": 26,
+        "price": 191.65,
+        "timestamp": "2014-08-12 14:21:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABM",
+        "shares": 14,
+        "price": 163.35,
+        "timestamp": "2014-08-13 11:39:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AET",
+        "shares": 15,
+        "price": 174.22,
+        "timestamp": "2014-08-19 10:56:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AEE",
+        "shares": 19,
+        "price": 152.87,
+        "timestamp": "2014-08-19 14:33:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "AES",
+        "shares": 11,
+        "price": 185.96,
+        "timestamp": "2014-08-19 14:59:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "A",
+        "shares": 12,
+        "price": 178.7,
+        "timestamp": "2014-08-27 12:39:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABB",
+        "shares": 10,
+        "price": 174.7,
+        "timestamp": "2014-08-27 15:55:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ACH",
+        "shares": 11,
+        "price": 176.87,
+        "timestamp": "2014-08-29 13:43:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 179.48,
+        "timestamp": "2014-09-04 14:58:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ADSW",
+        "shares": 29,
+        "price": 182.61,
+        "timestamp": "2014-09-12 12:04:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ACCO",
+        "shares": 18,
+        "price": 176.96,
+        "timestamp": "2014-09-16 12:02:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ABT",
+        "shares": 19,
+        "price": 161.13,
+        "timestamp": "2014-09-17 09:01:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4737917,
+            "name": "Daniel"
+        },
+        "symbol": "ACCO",
+        "shares": 14,
+        "price": 145.74,
+        "timestamp": "2014-09-19 14:00:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4078802,
+            "name": "Terri"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 148.3,
+        "timestamp": "2014-06-14 14:35:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4078802,
+            "name": "Terri"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 148.3,
+        "timestamp": "2014-06-14 14:35:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1508906,
+            "name": "Allison"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 175.0,
+        "timestamp": "2014-06-14 15:54:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2591577,
+            "name": "Melissa"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 177.7,
+        "timestamp": "2014-06-17 13:34:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3982797,
+            "name": "Paula"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 191.39,
+        "timestamp": "2014-06-17 13:51:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2704787,
+            "name": "Wayne"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 153.57,
+        "timestamp": "2014-06-17 15:24:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2137413,
+            "name": "Christine"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 189.7,
+        "timestamp": "2014-06-17 15:53:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4627257,
+            "name": "Victoria"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 189.7,
+        "timestamp": "2014-06-17 15:53:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1917867,
+            "name": "Melinda"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 171.0,
+        "timestamp": "2014-06-18 09:52:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4173558,
+            "name": "Ryan"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 164.04,
+        "timestamp": "2014-06-18 10:39:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4116733,
+            "name": "Alicia"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 164.04,
+        "timestamp": "2014-06-18 10:39:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3050873,
+            "name": "Alexis"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 147.7,
+        "timestamp": "2014-06-18 11:03:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3168785,
+            "name": "Sherry"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 157.3,
+        "timestamp": "2014-06-18 11:25:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2663795,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 179.04,
+        "timestamp": "2014-06-18 13:46:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1247866,
+            "name": "Corey"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 151.61,
+        "timestamp": "2014-06-18 15:45:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2010351,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 151.61,
+        "timestamp": "2014-06-18 15:45:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1130966,
+            "name": "Linda"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 170.78,
+        "timestamp": "2014-06-19 12:18:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3984415,
+            "name": "Marisa"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 176.26,
+        "timestamp": "2014-06-19 12:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1817307,
+            "name": "William"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 176.26,
+        "timestamp": "2014-06-19 12:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1203469,
+            "name": "Mitchell"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 168.83,
+        "timestamp": "2014-06-19 12:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4584630,
+            "name": "Erica"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 167.43,
+        "timestamp": "2014-06-19 14:02:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3680319,
+            "name": "William"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 143.3,
+        "timestamp": "2014-06-19 14:28:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1873050,
+            "name": "Jack"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 147.0,
+        "timestamp": "2014-06-20 09:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4068823,
+            "name": "Caroline"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 156.96,
+        "timestamp": "2014-06-20 13:46:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2156772,
+            "name": "Kelsey"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 150.3,
+        "timestamp": "2014-06-20 14:08:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4568251,
+            "name": "Jonathan"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 191.78,
+        "timestamp": "2014-06-21 12:04:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3198783,
+            "name": "Kathleen"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 188.09,
+        "timestamp": "2014-06-21 12:45:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4729220,
+            "name": "Melody"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 181.39,
+        "timestamp": "2014-06-21 13:49:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1619210,
+            "name": "Veronica"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 178.43,
+        "timestamp": "2014-06-21 14:14:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3520185,
+            "name": "Seth"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 172.52,
+        "timestamp": "2014-06-21 15:09:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3198783,
+            "name": "Kathleen"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 172.52,
+        "timestamp": "2014-06-21 15:09:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2124606,
+            "name": "Leslie"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 172.52,
+        "timestamp": "2014-06-21 15:09:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2591577,
+            "name": "Melissa"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 155.65,
+        "timestamp": "2014-06-24 09:46:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3243101,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 151.78,
+        "timestamp": "2014-06-24 10:57:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1413525,
+            "name": "Maria"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 165.61,
+        "timestamp": "2014-06-25 10:07:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2872582,
+            "name": "Eileen"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 182.96,
+        "timestamp": "2014-06-25 10:58:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4054569,
+            "name": "Jessica"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 151.35,
+        "timestamp": "2014-06-25 12:33:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4506174,
+            "name": "Brandon"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 151.35,
+        "timestamp": "2014-06-25 12:33:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3392365,
+            "name": "Seth"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 161.74,
+        "timestamp": "2014-06-27 10:19:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1625638,
+            "name": "Jennifer"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 148.65,
+        "timestamp": "2014-06-28 13:45:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4585433,
+            "name": "Jessica"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 173.39,
+        "timestamp": "2014-07-01 10:03:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1468242,
+            "name": "Brittany"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 181.61,
+        "timestamp": "2014-07-01 13:59:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4453218,
+            "name": "Walter"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 181.61,
+        "timestamp": "2014-07-01 13:59:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3243101,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 155.96,
+        "timestamp": "2014-07-01 14:25:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3095693,
+            "name": "Jon"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 170.13,
+        "timestamp": "2014-07-01 15:33:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3927148,
+            "name": "Gina"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 163.13,
+        "timestamp": "2014-07-02 10:35:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2659325,
+            "name": "William"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 151.35,
+        "timestamp": "2014-07-02 12:03:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3721239,
+            "name": "Randy"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 151.35,
+        "timestamp": "2014-07-02 12:03:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1478347,
+            "name": "Catherine"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 137.91,
+        "timestamp": "2014-07-02 12:40:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4549613,
+            "name": "Kimberly"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 137.91,
+        "timestamp": "2014-07-02 12:40:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4556307,
+            "name": "Stacey"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 132.91,
+        "timestamp": "2014-07-03 09:40:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3531955,
+            "name": "Frank"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 174.22,
+        "timestamp": "2014-07-03 10:30:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3891391,
+            "name": "Herbert"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 133.04,
+        "timestamp": "2014-07-03 10:50:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4716898,
+            "name": "Craig"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 179.43,
+        "timestamp": "2014-07-03 11:38:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2383313,
+            "name": "Erica"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 178.7,
+        "timestamp": "2014-07-03 12:11:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1398114,
+            "name": "Ronald"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 178.7,
+        "timestamp": "2014-07-03 12:11:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4805006,
+            "name": "Judith"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 158.39,
+        "timestamp": "2014-07-03 13:28:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1077388,
+            "name": "Lauren"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 173.04,
+        "timestamp": "2014-07-04 12:42:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2104682,
+            "name": "Billy"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 185.87,
+        "timestamp": "2014-07-04 13:02:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4433016,
+            "name": "Stephanie"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 170.04,
+        "timestamp": "2014-07-04 14:55:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2670180,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 193.65,
+        "timestamp": "2014-07-05 09:15:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1489177,
+            "name": "Kevin"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 174.78,
+        "timestamp": "2014-07-05 10:01:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1781560,
+            "name": "Zachary"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 194.61,
+        "timestamp": "2014-07-05 12:39:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4210287,
+            "name": "James"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 192.52,
+        "timestamp": "2014-07-05 13:25:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3539274,
+            "name": "Craig"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 153.52,
+        "timestamp": "2014-07-05 13:28:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2751580,
+            "name": "Heather"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 130.91,
+        "timestamp": "2014-07-05 15:35:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2219099,
+            "name": "Joseph"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 133.3,
+        "timestamp": "2014-07-08 11:49:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1630838,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 133.3,
+        "timestamp": "2014-07-08 11:49:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3660033,
+            "name": "Scott"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 186.48,
+        "timestamp": "2014-07-09 10:04:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1555905,
+            "name": "Susan"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 173.74,
+        "timestamp": "2014-07-10 09:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4716231,
+            "name": "Jeanne"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 131.91,
+        "timestamp": "2014-07-10 10:25:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4845895,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 150.78,
+        "timestamp": "2014-07-10 13:08:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3313488,
+            "name": "April"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 163.3,
+        "timestamp": "2014-07-11 09:16:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2106789,
+            "name": "Brandon"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 171.13,
+        "timestamp": "2014-07-11 09:54:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3977934,
+            "name": "Laura"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 166.26,
+        "timestamp": "2014-07-11 11:39:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1885676,
+            "name": "Ricky"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 142.7,
+        "timestamp": "2014-07-11 15:19:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4699257,
+            "name": "Charles"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 155.74,
+        "timestamp": "2014-07-12 10:01:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2659325,
+            "name": "William"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 164.35,
+        "timestamp": "2014-07-12 10:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2510061,
+            "name": "Carolyn"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 166.61,
+        "timestamp": "2014-07-12 11:29:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2428291,
+            "name": "Patricia"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 166.61,
+        "timestamp": "2014-07-12 11:29:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1516579,
+            "name": "Miguel"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 153.39,
+        "timestamp": "2014-07-12 15:26:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4134756,
+            "name": "Derrick"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 181.74,
+        "timestamp": "2014-07-15 09:14:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2613524,
+            "name": "Aaron"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 188.83,
+        "timestamp": "2014-07-15 09:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2023676,
+            "name": "Kimberly"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 137.96,
+        "timestamp": "2014-07-15 10:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2052246,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 188.96,
+        "timestamp": "2014-07-15 11:04:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2501152,
+            "name": "Diana"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 188.96,
+        "timestamp": "2014-07-15 11:04:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4416667,
+            "name": "Robert"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 172.96,
+        "timestamp": "2014-07-15 13:37:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2894435,
+            "name": "Ryan"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 172.96,
+        "timestamp": "2014-07-15 13:37:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2808432,
+            "name": "Charles"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 161.26,
+        "timestamp": "2014-07-15 14:21:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1183385,
+            "name": "Nicole"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 195.26,
+        "timestamp": "2014-07-16 09:14:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1221407,
+            "name": "Shannon"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 135.39,
+        "timestamp": "2014-07-16 10:09:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4797845,
+            "name": "Laura"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 135.39,
+        "timestamp": "2014-07-16 10:09:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4607147,
+            "name": "Noah"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 138.83,
+        "timestamp": "2014-07-16 10:54:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3831973,
+            "name": "Michelle"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 138.83,
+        "timestamp": "2014-07-16 10:54:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2731513,
+            "name": "Robert"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 169.04,
+        "timestamp": "2014-07-16 11:25:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1630838,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 169.04,
+        "timestamp": "2014-07-16 11:25:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1883687,
+            "name": "Ashley"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 147.78,
+        "timestamp": "2014-07-16 15:00:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2170537,
+            "name": "Adam"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 140.17,
+        "timestamp": "2014-07-17 11:38:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3775284,
+            "name": "Jessica"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 152.61,
+        "timestamp": "2014-07-17 15:47:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1487792,
+            "name": "Ana"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 167.87,
+        "timestamp": "2014-07-18 10:05:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4314829,
+            "name": "Steven"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 180.96,
+        "timestamp": "2014-07-18 12:26:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2935063,
+            "name": "Derek"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 135.3,
+        "timestamp": "2014-07-18 12:30:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4802761,
+            "name": "Patrick"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 133.91,
+        "timestamp": "2014-07-18 13:07:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1032870,
+            "name": "Matthew"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 158.17,
+        "timestamp": "2014-07-18 13:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2184780,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 158.17,
+        "timestamp": "2014-07-18 13:17:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3545733,
+            "name": "Christine"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 141.83,
+        "timestamp": "2014-07-18 13:19:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2691955,
+            "name": "Matthew"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 155.04,
+        "timestamp": "2014-07-18 13:36:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2408006,
+            "name": "Shelia"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 188.96,
+        "timestamp": "2014-07-18 14:46:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1685641,
+            "name": "Angela"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 132.87,
+        "timestamp": "2014-07-19 09:46:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4905184,
+            "name": "Melissa"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 138.96,
+        "timestamp": "2014-07-19 10:02:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3056692,
+            "name": "Larry"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 176.39,
+        "timestamp": "2014-07-19 10:19:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1170359,
+            "name": "Andre"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 149.0,
+        "timestamp": "2014-07-19 11:07:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4405244,
+            "name": "Patricia"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 164.39,
+        "timestamp": "2014-07-19 12:58:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1277288,
+            "name": "Jessica"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 138.96,
+        "timestamp": "2014-07-19 15:43:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3502599,
+            "name": "Yolanda"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 144.22,
+        "timestamp": "2014-07-22 09:05:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1842882,
+            "name": "Wanda"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 142.7,
+        "timestamp": "2014-07-22 12:03:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4437891,
+            "name": "Rebecca"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 142.91,
+        "timestamp": "2014-07-22 13:29:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4576675,
+            "name": "Mario"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 142.91,
+        "timestamp": "2014-07-22 13:29:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1332339,
+            "name": "Amy"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 140.52,
+        "timestamp": "2014-07-22 14:34:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1026061,
+            "name": "Deborah"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 140.52,
+        "timestamp": "2014-07-22 14:34:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1848337,
+            "name": "Bridget"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 140.52,
+        "timestamp": "2014-07-22 14:34:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3026913,
+            "name": "Wendy"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 188.91,
+        "timestamp": "2014-07-22 15:18:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2716384,
+            "name": "Lynn"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 188.91,
+        "timestamp": "2014-07-22 15:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3574167,
+            "name": "Brandi"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 140.3,
+        "timestamp": "2014-07-22 15:52:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2704787,
+            "name": "Wayne"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 140.3,
+        "timestamp": "2014-07-22 15:52:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4627257,
+            "name": "Victoria"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 140.3,
+        "timestamp": "2014-07-22 15:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4797845,
+            "name": "Laura"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 153.74,
+        "timestamp": "2014-07-23 11:13:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1170359,
+            "name": "Andre"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 170.74,
+        "timestamp": "2014-07-23 12:57:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1364613,
+            "name": "Jeremy"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 148.26,
+        "timestamp": "2014-07-23 13:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2970526,
+            "name": "Benjamin"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 165.83,
+        "timestamp": "2014-07-23 15:47:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2389690,
+            "name": "Jonathan"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 166.48,
+        "timestamp": "2014-07-24 09:17:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2590457,
+            "name": "Teresa"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 181.48,
+        "timestamp": "2014-07-24 11:46:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4314829,
+            "name": "Steven"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 158.09,
+        "timestamp": "2014-07-24 12:45:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4145172,
+            "name": "Nancy"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 155.09,
+        "timestamp": "2014-07-24 13:32:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1247236,
+            "name": "Susan"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 155.09,
+        "timestamp": "2014-07-24 13:32:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4249592,
+            "name": "Jacqueline"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 139.35,
+        "timestamp": "2014-07-24 15:28:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1424292,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 134.48,
+        "timestamp": "2014-07-25 13:18:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4458375,
+            "name": "Joseph"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 159.26,
+        "timestamp": "2014-07-25 14:40:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4290648,
+            "name": "Sonya"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 191.04,
+        "timestamp": "2014-07-26 09:20:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1490912,
+            "name": "Derrick"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 152.09,
+        "timestamp": "2014-07-26 11:01:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1818647,
+            "name": "Adam"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 156.61,
+        "timestamp": "2014-07-26 11:09:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3999534,
+            "name": "Geoffrey"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 133.04,
+        "timestamp": "2014-07-26 11:16:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4713315,
+            "name": "Amber"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 165.91,
+        "timestamp": "2014-07-26 11:50:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1609474,
+            "name": "James"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 173.26,
+        "timestamp": "2014-07-26 12:56:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3927148,
+            "name": "Gina"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 168.17,
+        "timestamp": "2014-07-29 09:06:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4645763,
+            "name": "Darren"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 142.7,
+        "timestamp": "2014-07-29 10:16:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1783333,
+            "name": "Kevin"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 146.0,
+        "timestamp": "2014-07-29 10:52:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4361237,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 142.09,
+        "timestamp": "2014-07-30 09:23:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1173185,
+            "name": "Steven"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 142.09,
+        "timestamp": "2014-07-30 09:23:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4894132,
+            "name": "Joseph"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 142.09,
+        "timestamp": "2014-07-30 09:23:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4952685,
+            "name": "Christian"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 181.52,
+        "timestamp": "2014-07-30 10:27:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1149036,
+            "name": "Joseph"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 146.0,
+        "timestamp": "2014-07-30 11:03:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2978372,
+            "name": "Frank"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 176.96,
+        "timestamp": "2014-07-30 13:25:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2168163,
+            "name": "Shawn"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 176.96,
+        "timestamp": "2014-07-30 13:25:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2691673,
+            "name": "Hannah"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 148.13,
+        "timestamp": "2014-07-30 14:09:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3658666,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 131.78,
+        "timestamp": "2014-07-31 10:38:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4486869,
+            "name": "Alexander"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 146.78,
+        "timestamp": "2014-07-31 11:20:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2219099,
+            "name": "Joseph"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 191.83,
+        "timestamp": "2014-07-31 12:41:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3264021,
+            "name": "John"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 156.91,
+        "timestamp": "2014-07-31 13:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4338953,
+            "name": "Kaitlyn"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 156.91,
+        "timestamp": "2014-07-31 13:52:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3907300,
+            "name": "Ashley"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 156.91,
+        "timestamp": "2014-07-31 13:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4597383,
+            "name": "Marvin"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 156.91,
+        "timestamp": "2014-07-31 13:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4503295,
+            "name": "Candace"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 134.48,
+        "timestamp": "2014-07-31 14:45:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3152533,
+            "name": "Benjamin"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 191.48,
+        "timestamp": "2014-08-01 09:31:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1371561,
+            "name": "Carl"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 188.74,
+        "timestamp": "2014-08-01 11:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3503016,
+            "name": "Donald"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 188.74,
+        "timestamp": "2014-08-01 11:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2357914,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 161.7,
+        "timestamp": "2014-08-02 09:46:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3149841,
+            "name": "Douglas"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 147.91,
+        "timestamp": "2014-08-02 10:35:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2106789,
+            "name": "Brandon"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 159.91,
+        "timestamp": "2014-08-02 12:33:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4358391,
+            "name": "Felicia"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 154.09,
+        "timestamp": "2014-08-02 12:55:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3672763,
+            "name": "Crystal"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 154.09,
+        "timestamp": "2014-08-02 12:55:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1604198,
+            "name": "Brian"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 139.26,
+        "timestamp": "2014-08-05 10:27:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2280276,
+            "name": "Zachary"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 139.26,
+        "timestamp": "2014-08-05 10:27:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3255205,
+            "name": "Sara"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 193.74,
+        "timestamp": "2014-08-05 11:04:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4249592,
+            "name": "Jacqueline"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 139.96,
+        "timestamp": "2014-08-05 13:00:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4948818,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 173.78,
+        "timestamp": "2014-08-05 13:23:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4593404,
+            "name": "Gina"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 172.57,
+        "timestamp": "2014-08-05 14:26:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3736144,
+            "name": "Elizabeth"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 155.91,
+        "timestamp": "2014-08-05 15:15:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3793923,
+            "name": "Laura"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 155.91,
+        "timestamp": "2014-08-05 15:15:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3225483,
+            "name": "Kayla"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 132.78,
+        "timestamp": "2014-08-06 10:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3197832,
+            "name": "Melanie"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 132.78,
+        "timestamp": "2014-08-06 10:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3047923,
+            "name": "John"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 171.48,
+        "timestamp": "2014-08-06 10:47:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1455935,
+            "name": "Erica"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 179.0,
+        "timestamp": "2014-08-06 11:50:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3124681,
+            "name": "Maria"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 140.0,
+        "timestamp": "2014-08-06 12:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1625638,
+            "name": "Jennifer"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 160.09,
+        "timestamp": "2014-08-06 13:36:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3681872,
+            "name": "Matthew"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 190.91,
+        "timestamp": "2014-08-06 15:05:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1077388,
+            "name": "Lauren"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 150.65,
+        "timestamp": "2014-08-07 14:23:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3239622,
+            "name": "Ann"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 178.7,
+        "timestamp": "2014-08-07 15:08:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2184286,
+            "name": "Anne"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 158.3,
+        "timestamp": "2014-08-08 09:17:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2937490,
+            "name": "Kathleen"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 158.3,
+        "timestamp": "2014-08-08 09:17:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4068823,
+            "name": "Caroline"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 190.35,
+        "timestamp": "2014-08-08 10:39:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2944537,
+            "name": "Matthew"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 166.39,
+        "timestamp": "2014-08-08 12:28:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3775284,
+            "name": "Jessica"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 166.39,
+        "timestamp": "2014-08-08 12:28:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1437495,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 187.48,
+        "timestamp": "2014-08-08 12:35:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1840555,
+            "name": "Willie"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 148.96,
+        "timestamp": "2014-08-08 13:19:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3351130,
+            "name": "Gloria"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 193.17,
+        "timestamp": "2014-08-08 13:35:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4183940,
+            "name": "Crystal"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 193.13,
+        "timestamp": "2014-08-08 15:00:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3852932,
+            "name": "Jeffery"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 181.96,
+        "timestamp": "2014-08-08 15:58:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3226358,
+            "name": "Rebecca"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 149.3,
+        "timestamp": "2014-08-09 10:11:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3255205,
+            "name": "Sara"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 178.87,
+        "timestamp": "2014-08-09 11:01:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2147772,
+            "name": "Sydney"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 178.87,
+        "timestamp": "2014-08-09 11:01:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4416030,
+            "name": "Diana"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 163.78,
+        "timestamp": "2014-08-09 14:59:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1867177,
+            "name": "Carmen"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 186.35,
+        "timestamp": "2014-08-09 15:29:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1555905,
+            "name": "Susan"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 174.0,
+        "timestamp": "2014-08-12 09:10:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4803358,
+            "name": "Gail"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 188.09,
+        "timestamp": "2014-08-12 12:37:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4625984,
+            "name": "Jennifer"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 175.0,
+        "timestamp": "2014-08-12 14:59:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4283999,
+            "name": "Ashley"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 175.0,
+        "timestamp": "2014-08-12 14:59:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2250430,
+            "name": "Luke"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 177.91,
+        "timestamp": "2014-08-13 09:49:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2322408,
+            "name": "Shane"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 161.3,
+        "timestamp": "2014-08-13 10:23:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4595333,
+            "name": "Alison"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 163.35,
+        "timestamp": "2014-08-13 11:39:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3973047,
+            "name": "Amber"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 167.0,
+        "timestamp": "2014-08-13 12:15:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3056692,
+            "name": "Larry"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 145.35,
+        "timestamp": "2014-08-13 13:03:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2557710,
+            "name": "Patrick"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 145.35,
+        "timestamp": "2014-08-13 13:03:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4335459,
+            "name": "Kristin"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 151.13,
+        "timestamp": "2014-08-13 13:56:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1766897,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 151.13,
+        "timestamp": "2014-08-13 13:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4560126,
+            "name": "Christina"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 158.52,
+        "timestamp": "2014-08-14 10:48:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1218136,
+            "name": "David"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 160.39,
+        "timestamp": "2014-08-14 11:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3641556,
+            "name": "Andrew"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 137.26,
+        "timestamp": "2014-08-14 12:00:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4821406,
+            "name": "Justin"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 141.09,
+        "timestamp": "2014-08-14 12:27:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4038656,
+            "name": "Brian"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 161.17,
+        "timestamp": "2014-08-14 13:15:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4550219,
+            "name": "Randy"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 161.57,
+        "timestamp": "2014-08-14 15:59:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3403844,
+            "name": "William"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 143.22,
+        "timestamp": "2014-08-15 09:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4790894,
+            "name": "Phillip"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 134.57,
+        "timestamp": "2014-08-15 11:35:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2041898,
+            "name": "Kim"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 135.3,
+        "timestamp": "2014-08-15 12:44:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2688668,
+            "name": "Jessica"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 158.0,
+        "timestamp": "2014-08-15 13:27:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4584630,
+            "name": "Erica"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 182.48,
+        "timestamp": "2014-08-15 15:55:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2646395,
+            "name": "Robert"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 154.13,
+        "timestamp": "2014-08-16 10:16:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2130446,
+            "name": "Barry"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 141.0,
+        "timestamp": "2014-08-16 10:32:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3534090,
+            "name": "Whitney"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 141.0,
+        "timestamp": "2014-08-16 10:32:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4364616,
+            "name": "Carrie"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 136.48,
+        "timestamp": "2014-08-16 11:16:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4066682,
+            "name": "Scott"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 183.87,
+        "timestamp": "2014-08-16 14:05:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2955431,
+            "name": "Angela"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 180.43,
+        "timestamp": "2014-08-19 10:15:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3102792,
+            "name": "Lauren"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 174.22,
+        "timestamp": "2014-08-19 10:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1743840,
+            "name": "Dale"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 174.22,
+        "timestamp": "2014-08-19 10:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2367075,
+            "name": "Vanessa"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 162.57,
+        "timestamp": "2014-08-19 13:25:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3531955,
+            "name": "Frank"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 185.96,
+        "timestamp": "2014-08-19 14:59:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3816323,
+            "name": "Phillip"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 156.91,
+        "timestamp": "2014-08-20 15:39:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2602578,
+            "name": "Madison"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 132.09,
+        "timestamp": "2014-08-21 10:07:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3575433,
+            "name": "Amanda"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 190.35,
+        "timestamp": "2014-08-21 14:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2460326,
+            "name": "Gina"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 131.13,
+        "timestamp": "2014-08-22 09:50:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1117775,
+            "name": "Erin"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 186.3,
+        "timestamp": "2014-08-22 11:20:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4607147,
+            "name": "Noah"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 186.3,
+        "timestamp": "2014-08-22 11:20:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1783333,
+            "name": "Kevin"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 151.96,
+        "timestamp": "2014-08-22 12:06:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4076811,
+            "name": "Kathleen"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 183.48,
+        "timestamp": "2014-08-22 12:52:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2002822,
+            "name": "Ashley"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 157.48,
+        "timestamp": "2014-08-22 15:27:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4833254,
+            "name": "Ashley"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 148.26,
+        "timestamp": "2014-08-22 15:43:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2367075,
+            "name": "Vanessa"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 165.43,
+        "timestamp": "2014-08-23 09:34:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4802761,
+            "name": "Patrick"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 169.52,
+        "timestamp": "2014-08-23 10:30:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3225483,
+            "name": "Kayla"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 143.83,
+        "timestamp": "2014-08-23 11:39:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3397469,
+            "name": "Megan"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 161.57,
+        "timestamp": "2014-08-23 14:33:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3264021,
+            "name": "John"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 153.61,
+        "timestamp": "2014-08-23 15:36:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1690382,
+            "name": "George"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 176.35,
+        "timestamp": "2014-08-26 09:48:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4627257,
+            "name": "Victoria"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 136.0,
+        "timestamp": "2014-08-26 10:59:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3089869,
+            "name": "Daniel"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 168.87,
+        "timestamp": "2014-08-26 11:01:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1857628,
+            "name": "Walter"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 138.83,
+        "timestamp": "2014-08-27 11:19:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1920241,
+            "name": "Ashley"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 149.7,
+        "timestamp": "2014-08-27 13:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3504862,
+            "name": "Cassandra"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 188.61,
+        "timestamp": "2014-08-28 09:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3558597,
+            "name": "Ann"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 138.57,
+        "timestamp": "2014-08-28 11:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4790894,
+            "name": "Phillip"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 165.74,
+        "timestamp": "2014-08-28 13:21:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1037117,
+            "name": "Alexandra"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 154.26,
+        "timestamp": "2014-08-29 11:10:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3897388,
+            "name": "James"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 147.65,
+        "timestamp": "2014-08-29 12:42:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3656770,
+            "name": "Grace"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 147.65,
+        "timestamp": "2014-08-29 12:42:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3286662,
+            "name": "Stephen"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 133.3,
+        "timestamp": "2014-08-29 13:04:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3891391,
+            "name": "Herbert"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 178.3,
+        "timestamp": "2014-08-29 15:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4571708,
+            "name": "David"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 185.96,
+        "timestamp": "2014-08-30 10:25:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2190070,
+            "name": "Vanessa"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 134.78,
+        "timestamp": "2014-08-30 10:58:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2052246,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 180.61,
+        "timestamp": "2014-08-30 11:56:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3736144,
+            "name": "Elizabeth"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 172.26,
+        "timestamp": "2014-08-30 14:00:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2144944,
+            "name": "Jay"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 131.09,
+        "timestamp": "2014-08-30 14:46:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1914901,
+            "name": "Susan"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 156.61,
+        "timestamp": "2014-08-30 15:30:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1882274,
+            "name": "Kevin"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 153.7,
+        "timestamp": "2014-09-02 09:20:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4314829,
+            "name": "Steven"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 159.48,
+        "timestamp": "2014-09-02 09:34:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2553102,
+            "name": "Tammy"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 152.83,
+        "timestamp": "2014-09-02 10:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1933682,
+            "name": "Andrew"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 135.57,
+        "timestamp": "2014-09-02 12:31:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1499329,
+            "name": "Kenneth"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 131.13,
+        "timestamp": "2014-09-02 15:44:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3558597,
+            "name": "Ann"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 148.65,
+        "timestamp": "2014-09-03 09:23:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4979618,
+            "name": "Andrew"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 179.57,
+        "timestamp": "2014-09-03 12:40:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4312257,
+            "name": "Candice"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 169.35,
+        "timestamp": "2014-09-03 13:11:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1766897,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 148.65,
+        "timestamp": "2014-09-03 14:00:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2089213,
+            "name": "Barbara"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 147.52,
+        "timestamp": "2014-09-03 15:51:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3672763,
+            "name": "Crystal"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 178.83,
+        "timestamp": "2014-09-04 10:34:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3797104,
+            "name": "Shannon"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 138.96,
+        "timestamp": "2014-09-04 14:30:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1956699,
+            "name": "Mallory"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 138.96,
+        "timestamp": "2014-09-04 14:30:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1582461,
+            "name": "Jack"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 154.57,
+        "timestamp": "2014-09-04 14:45:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1818647,
+            "name": "Adam"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 179.48,
+        "timestamp": "2014-09-04 14:58:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1754533,
+            "name": "Kimberly"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 131.09,
+        "timestamp": "2014-09-05 09:17:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3110752,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 188.87,
+        "timestamp": "2014-09-05 11:11:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4635072,
+            "name": "Lynn"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 163.96,
+        "timestamp": "2014-09-05 12:57:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2678574,
+            "name": "Monica"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 193.22,
+        "timestamp": "2014-09-05 13:42:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3793632,
+            "name": "Shelley"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 176.0,
+        "timestamp": "2014-09-06 11:31:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4888338,
+            "name": "Catherine"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 176.0,
+        "timestamp": "2014-09-06 11:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3172323,
+            "name": "Ryan"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 184.39,
+        "timestamp": "2014-09-06 15:20:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1243971,
+            "name": "Paul"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 173.91,
+        "timestamp": "2014-09-09 09:33:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2846398,
+            "name": "John"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 173.91,
+        "timestamp": "2014-09-09 09:33:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2778244,
+            "name": "Thomas"
+        },
+        "symbol": "ACM",
+        "shares": 29,
+        "price": 157.35,
+        "timestamp": "2014-09-09 10:23:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2686103,
+            "name": "James"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 136.61,
+        "timestamp": "2014-09-09 10:50:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4892658,
+            "name": "Kimberly"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 151.22,
+        "timestamp": "2014-09-09 11:02:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4848681,
+            "name": "Bryan"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 164.87,
+        "timestamp": "2014-09-09 11:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4506174,
+            "name": "Brandon"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 180.39,
+        "timestamp": "2014-09-09 12:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2866370,
+            "name": "Stephanie"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 159.57,
+        "timestamp": "2014-09-09 13:05:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1006528,
+            "name": "Shawn"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 191.57,
+        "timestamp": "2014-09-10 09:19:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3736144,
+            "name": "Elizabeth"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 158.09,
+        "timestamp": "2014-09-10 14:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1661749,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 175.65,
+        "timestamp": "2014-09-10 15:42:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2041898,
+            "name": "Kim"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 133.48,
+        "timestamp": "2014-09-10 15:49:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3763903,
+            "name": "William"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 155.26,
+        "timestamp": "2014-09-11 12:37:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1092130,
+            "name": "Austin"
+        },
+        "symbol": "ACM",
+        "shares": 21,
+        "price": 143.0,
+        "timestamp": "2014-09-11 14:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2089213,
+            "name": "Barbara"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 189.52,
+        "timestamp": "2014-09-11 14:38:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3370644,
+            "name": "Danielle"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 190.26,
+        "timestamp": "2014-09-12 10:09:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1770541,
+            "name": "Melissa"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 186.09,
+        "timestamp": "2014-09-12 10:52:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2840280,
+            "name": "Jennifer"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 182.61,
+        "timestamp": "2014-09-12 12:04:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4966721,
+            "name": "Richard"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 142.04,
+        "timestamp": "2014-09-12 13:29:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2209476,
+            "name": "Matthew"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 173.83,
+        "timestamp": "2014-09-12 14:09:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4635072,
+            "name": "Lynn"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 152.13,
+        "timestamp": "2014-09-12 14:48:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4974324,
+            "name": "Chloe"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 149.87,
+        "timestamp": "2014-09-12 14:50:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1516291,
+            "name": "Victor"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 182.87,
+        "timestamp": "2014-09-13 10:27:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2642832,
+            "name": "Michael"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 191.3,
+        "timestamp": "2014-09-13 11:23:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1717272,
+            "name": "Matthew"
+        },
+        "symbol": "ACM",
+        "shares": 17,
+        "price": 183.09,
+        "timestamp": "2014-09-13 11:58:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3749897,
+            "name": "Jerry"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 152.57,
+        "timestamp": "2014-09-13 12:55:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2956624,
+            "name": "Courtney"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 174.61,
+        "timestamp": "2014-09-13 13:58:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3938184,
+            "name": "Craig"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 193.09,
+        "timestamp": "2014-09-13 14:39:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1008065,
+            "name": "Ryan"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 134.39,
+        "timestamp": "2014-09-13 15:45:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2060805,
+            "name": "Natalie"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 134.39,
+        "timestamp": "2014-09-13 15:45:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1630838,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 28,
+        "price": 134.39,
+        "timestamp": "2014-09-13 15:45:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2558375,
+            "name": "Linda"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 131.65,
+        "timestamp": "2014-09-16 13:00:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2217272,
+            "name": "Bonnie"
+        },
+        "symbol": "ACM",
+        "shares": 26,
+        "price": 161.13,
+        "timestamp": "2014-09-17 09:01:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1183385,
+            "name": "Nicole"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 184.26,
+        "timestamp": "2014-09-17 10:56:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2157100,
+            "name": "Steven"
+        },
+        "symbol": "ACM",
+        "shares": 14,
+        "price": 137.83,
+        "timestamp": "2014-09-17 14:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2762837,
+            "name": "Samuel"
+        },
+        "symbol": "ACM",
+        "shares": 20,
+        "price": 137.83,
+        "timestamp": "2014-09-17 14:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3644276,
+            "name": "Lori"
+        },
+        "symbol": "ACM",
+        "shares": 19,
+        "price": 164.0,
+        "timestamp": "2014-09-18 09:48:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2510061,
+            "name": "Carolyn"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 164.0,
+        "timestamp": "2014-09-18 09:48:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2987909,
+            "name": "Mary"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 131.91,
+        "timestamp": "2014-09-18 10:00:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1722950,
+            "name": "Warren"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 181.43,
+        "timestamp": "2014-09-18 11:35:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4783362,
+            "name": "Christie"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 164.7,
+        "timestamp": "2014-09-19 14:31:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2104213,
+            "name": "Victoria"
+        },
+        "symbol": "ACM",
+        "shares": 25,
+        "price": 176.96,
+        "timestamp": "2014-09-20 09:38:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1935511,
+            "name": "Jeanne"
+        },
+        "symbol": "ACM",
+        "shares": 15,
+        "price": 141.74,
+        "timestamp": "2014-09-20 09:58:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 1517728,
+            "name": "Justin"
+        },
+        "symbol": "ACM",
+        "shares": 24,
+        "price": 173.48,
+        "timestamp": "2014-09-20 10:36:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3717113,
+            "name": "John"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 171.22,
+        "timestamp": "2014-09-20 10:55:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2322408,
+            "name": "Shane"
+        },
+        "symbol": "ACM",
+        "shares": 18,
+        "price": 163.78,
+        "timestamp": "2014-09-20 11:50:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4203743,
+            "name": "Brian"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 132.7,
+        "timestamp": "2014-09-20 12:29:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 3688972,
+            "name": "Angela"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 182.35,
+        "timestamp": "2014-09-20 14:29:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 2267946,
+            "name": "Charles"
+        },
+        "symbol": "ACM",
+        "shares": 13,
+        "price": 182.35,
+        "timestamp": "2014-09-20 14:29:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4503413,
+            "name": "Marcus"
+        },
+        "symbol": "ACM",
+        "shares": 12,
+        "price": 181.7,
+        "timestamp": "2014-09-23 09:41:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4484285,
+            "name": "Melissa"
+        },
+        "symbol": "ACM",
+        "shares": 30,
+        "price": 142.83,
+        "timestamp": "2014-09-23 10:32:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4662790,
+            "name": "Charles"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 142.57,
+        "timestamp": "2014-09-23 12:17:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 2219817,
+            "name": "Leslie"
+        },
+        "symbol": "ACM",
+        "shares": 23,
+        "price": 142.57,
+        "timestamp": "2014-09-23 12:17:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4216550,
+            "name": "Molly"
+        },
+        "symbol": "ACM",
+        "shares": 27,
+        "price": 160.83,
+        "timestamp": "2014-09-23 15:15:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 1329740,
+            "name": "Lisa"
+        },
+        "symbol": "ACM",
+        "shares": 10,
+        "price": 184.48,
+        "timestamp": "2014-09-23 15:26:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4879027,
+            "name": "Joshua"
+        },
+        "symbol": "ACM",
+        "shares": 16,
+        "price": 135.87,
+        "timestamp": "2014-09-23 15:27:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4403020,
+            "name": "Stephanie"
+        },
+        "symbol": "ACM",
+        "shares": 22,
+        "price": 150.26,
+        "timestamp": "2014-09-24 11:19:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 3669075,
+            "name": "Hannah"
+        },
+        "symbol": "ACM",
+        "shares": 11,
+        "price": 142.52,
+        "timestamp": "2014-09-24 14:07:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4055654,
+            "name": "Brenda"
+        },
+        "symbol": "AAC",
+        "shares": 20,
+        "price": 147.0,
+        "timestamp": "2014-06-20 09:18:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4055654,
+            "name": "Brenda"
+        },
+        "symbol": "AAC",
+        "shares": 20,
+        "price": 147.0,
+        "timestamp": "2014-06-20 09:18:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4055654,
+            "name": "Brenda"
+        },
+        "symbol": "AAC",
+        "shares": 15,
+        "price": 188.83,
+        "timestamp": "2014-07-15 09:18:13"
+    },
+    {
+        "type": "sell",
+        "user": {
+            "id": 4055654,
+            "name": "Brenda"
+        },
+        "symbol": "AAC",
+        "shares": 14,
+        "price": 164.96,
+        "timestamp": "2014-08-01 15:02:13"
+    },
+    {
+        "type": "buy",
+        "user": {
+            "id": 4055654,
+            "name": "Brenda"
+        },
+        "symbol": "AAC",
+        "shares": 17,
+        "price": 133.3,
+        "timestamp": "2014-08-29 13:04:13"
+    }
+]
